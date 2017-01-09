@@ -10,8 +10,12 @@
           <option name="url" value="git@techgit.meitu.com:AndroidModules/StartupAdLib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:bitstadium/HockeySDK-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\AndroidProjects\" />
+    <option name="cloneParentDir" value="D:\AndroidProjects\FromGitHub" />
   </component>
 </application>
