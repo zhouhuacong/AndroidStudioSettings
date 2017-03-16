@@ -11,6 +11,13 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
+  <action id="CodotaSearchCrossRefAction">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
   <action id="ECTranslation">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
@@ -24,6 +31,10 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift alt q" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
