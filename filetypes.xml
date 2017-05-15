@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="崩溃收集公司公共邮箱.txt" type="PLAIN_TEXT" />
+      <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="pages" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
